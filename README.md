@@ -20,7 +20,7 @@ de 'weights' en 'bias' een schatting over waar die informatie naar toe wijst, en
 Vervolgens word het verschil tussen de schatting en het werkelijke antwoord berekent en word het gebruikt om de parameters (weights & bias)
 mee aan te passen. Wanneer we dit process dan weer herhalen met de nieuwe aangepaste weights & biases, zullen we bij de nieuwe schatting
 een preciezer resultaat krijgen. Herhaal dit process opnieuw en opnieuw, en uiteindelijk zal het algoritme een accuraat idee hebben wat 'wat' is
-gebaseerd op de informatie die het ontvangt.
+gebaseerd op alle informatie die het heeft ontvangen.
 
 Het meeste van wat ik hierboven beschrijf wist ik voordat ik begon aan mijn (nu geslaagde) neural network. Dit komt omdat naar
 mijn ervaring, een neural network en de situatie waarin het is geplaatst, van top tot teen gepland en uitgewerkt moet zijn voordat
