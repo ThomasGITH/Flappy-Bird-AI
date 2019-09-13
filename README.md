@@ -1,6 +1,6 @@
 # Flappy-Bird-AI
 
-## Onderzoek Neural Networks/Machine Learning
+### Onderzoek Neural Networks/Machine Learning
 
 Ik moet allereerst melden dat ik deze opdracht al had afgerond voordat ik mij bewust was dat we ons onderzoek allemaal moesten noteren. 
 Aangezien ik niet kan tijdreizen is dit dus meer een soort post-mortem waarbij ik het werkprocess samenvat, en mijn bronnen 
