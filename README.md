@@ -2,11 +2,11 @@
 
 ### Onderzoek Neural Networks/Machine Learning
 
-Ik moet allereerst melden dat ik deze opdracht al had afgerond voordat ik mij bewust was dat we ons onderzoek allemaal moesten bijhouden en noteren. Aangezien ik niet kan tijdreizen is dit dus meer een soort post-mortem waarbij ik het werkprocess samenvat, en mijn bronnen 
+Ik moet allereerst melden dat ik deze opdracht al had afgerond voordat ik mij bewust was dat we ons onderzoek allemaal moesten bijhouden en noteren. Aangezien ik niet kan tijdreizen is dit dus meer een soort post-mortem waarbij ik het werkproces samen vat, en mijn bronnen 
 van informatie vermeld.
 
 Voordat we dit als opdracht kregen was ik al voor een korte tijd bezig met neural networks. Ik had zelfs al meerdere modellen
-gemaakt, maar die waren aan het einde van de dag mislukt vanwege het gebrek aan back-propagation. 'Back-propagation' is het process
+gemaakt, maar die waren aan het einde van de dag mislukt vanwege het gebrek aan back-propagation. 'Back-propagation' is het proces
 waarbij we de relevante parameters, oftewel de 'weights' en de 'bias', aanpassen om dichterbij het antwoord te komen waar we naartoe
 willen. Hierover leg ik later meer uit voor het belang van context.
 
@@ -19,7 +19,7 @@ Een neural network is een leer-algorithme. Het algoritme neemt bepaalde informat
 de 'weights' en 'bias' een schatting over waar die informatie naar toe wijst, en vergelijkt die schatting dan met het werkelijke antwoord.
 Vervolgens word het verschil tussen de schatting en het werkelijke antwoord berekent en word het gebruikt om de parameters (weights & bias)
 mee aan te passen. Wanneer we dit process dan weer herhalen met de nieuwe aangepaste weights & biases, zullen we bij de nieuwe schatting
-een preciezer resultaat krijgen. Herhaal dit process opnieuw en opnieuw, en uiteindelijk zal het algoritme een accuraat idee hebben wat 'wat' is
+een preciezer resultaat krijgen. Herhaal dit proces opnieuw en opnieuw, en uiteindelijk zal het algoritme een accuraat idee hebben wat 'wat' is
 gebaseerd op alle informatie die het heeft ontvangen.
 
 Het meeste van wat ik hierboven beschrijf wist ik voordat ik begon aan mijn (nu geslaagde) neural network. Dit komt omdat naar
