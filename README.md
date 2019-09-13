@@ -2,8 +2,7 @@
 
 ### Onderzoek Neural Networks/Machine Learning
 
-Ik moet allereerst melden dat ik deze opdracht al had afgerond voordat ik mij bewust was dat we ons onderzoek allemaal moesten noteren. 
-Aangezien ik niet kan tijdreizen is dit dus meer een soort post-mortem waarbij ik het werkprocess samenvat, en mijn bronnen 
+Ik moet allereerst melden dat ik deze opdracht al had afgerond voordat ik mij bewust was dat we ons onderzoek allemaal moesten bijhouden en noteren. Aangezien ik niet kan tijdreizen is dit dus meer een soort post-mortem waarbij ik het werkprocess samenvat, en mijn bronnen 
 van informatie vermeld.
 
 Voordat we dit als opdracht kregen was ik al voor een korte tijd bezig met neural networks. Ik had zelfs al meerdere modellen
