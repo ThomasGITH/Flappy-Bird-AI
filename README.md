@@ -2,8 +2,7 @@
 
 ### Onderzoek Neural Networks/Machine Learning
 
-Ik moet allereerst melden dat ik deze opdracht al had afgerond voordat ik mij bewust was dat we ons onderzoek allemaal moesten bijhouden en noteren. Aangezien ik niet kan tijdreizen is dit dus meer een soort post-mortem waarbij ik het werkproces samen vat, en mijn bronnen 
-van informatie vermeld.
+Ik moet allereerst even melden dat ik deze opdracht al had afgerond voordat ik wist dat we ons onderzoek allemaal moesten bijhouden en noteren. Hier kon ik ook moeilijk iets aan doen aangezien ik er al in de vakantie mee bezig was en omdat ik niet kan tijdreizen is dit dus meer een soort post-mortem waarbij ik het werkproces samen vat, en mijn bronnen van informatie vermeld.
 
 Voordat we dit als opdracht kregen was ik al voor een korte tijd bezig met neural networks. Ik had zelfs al meerdere modellen
 gemaakt, maar die waren aan het einde van de dag mislukt vanwege het gebrek aan back-propagation. 'Back-propagation' is het proces
@@ -26,3 +25,5 @@ Het meeste van wat ik hierboven beschrijf wist ik voordat ik begon aan mijn (nu 
 mijn ervaring, een neural network en de situatie waarin het is geplaatst, van top tot teen gepland en uitgewerkt moet zijn voordat
 het word gerealiseerd. De wiskunde erachter is gemakkelijk fout te doen (wanneer je in ieder geval geen achterliggende code gebruikt)
 en slordigheid kan fataal zijn voor de kwaliteit van je model.
+
+Het was uiteindelijk een erg leerzaam project en ik ben ook van plan om mij in dit onderwerp ook nog veel verder te gaan verdiepen.
