@@ -1,24 +1,12 @@
 
 float target(float HD, float LD)
 {
-  //medium height = calculate ideal height-for-(ideal length-for-HD)
-  //difference_from_medium = HD - medium height
-  //if(difference_from_medium < range)
-  //return 1
-  //else
-  //return 0
-  
-  //Tip: de 1 & 0 moeten misschien andersom zijn
   if(LD >= 56 && (HD >= -75))
   {
-    //print(1);
-    //print("\n");
     return 1;
   }
   else
   {
-    //print(0);
-    //print("\n");
   return 0;
   }
   
@@ -49,9 +37,11 @@ jump_or_not(output);
 float train(){
   
   for(int i = 0; i < 5000; i++){
-  //Geef input
+    
+//Geef input
 float[] point = dataList.get(round(random(0,dataList.size() - 1)));
 float target = point[2];
+
 //Maak (training) voorspelling
 float z = w1 * point[0] + w2 * point[1] + b;
 float pred = sigmoid(z);
@@ -87,7 +77,7 @@ void jump_or_not(float output)
 {
   if(output > 0.5)
   {
-
+    //doe niks
   }
   else
   {
@@ -95,5 +85,3 @@ void jump_or_not(float output)
        accelerationY -= jumpforce; 
   }
 }
-
-//Geef input (& target)

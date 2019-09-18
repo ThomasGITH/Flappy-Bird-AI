@@ -19,8 +19,8 @@ boolean enablePlayer;
 
 void draw()
 {
-  background(102, 255, 255);
-  
+  //background(102, 255, 255);
+  background(255);
   barSpawnTimer++;
   if(barSpawnTimer > 200)
   {
@@ -57,7 +57,7 @@ void draw()
     stroke(10);
     ellipse(posX,posY,25,25);
             fill(250);
-
+    
     heightDifference = barList.get(0).y - posY;
     lengthDifference = barList.get(0).x - posX;
     
